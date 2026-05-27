@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🏨 Ram Hostels - Hostel Management System
+  # 🏨 Hostel Management System
 
   <a href="#">
     <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Version">
@@ -23,7 +23,7 @@
 
   ### A Complete Web-Based Solution for Managing Hostel Operations
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ram+Hostels&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hostel+Management&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
 
 </div>
 
@@ -49,10 +49,10 @@
 ## 📖 About The Project
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Ram+Hostels+Management+System" alt="Project Screenshot" width="100%" style="border-radius: 10px; margin: 20px 0;">
+  <img src="https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Hostel+Management+System" alt="Project Screenshot" width="100%" style="border-radius: 10px; margin: 20px 0;">
 </div>
 
-**Ram Hostels** is a comprehensive **PHP-based web application** designed to streamline hostel management operations at Ram Hostels, Kolkata. Established in **1990**, Ram Hostels has been providing quality accommodation solutions for students for over three decades.
+**Hostel Management System** is a comprehensive **PHP-based web application** designed to streamline hostel management operations. This system provides a complete solution for managing student accommodations, applications, and facilities.
 
 This management system provides:
 
@@ -72,7 +72,7 @@ This management system provides:
 | Feature | Description |
 |---------|-------------|
 | 🏠 **Responsive Homepage** | Beautiful landing page with animated image carousel showcasing hostel facilities |
-| 📜 **About Section** | Detailed information about hostel's rich history (est. 1990) and accommodation options |
+| 📜 **About Section** | Detailed information about the hostel's accommodation options |
 | ✅ **Age Verification** | Smart modal ensuring users are 18+ before applying |
 | 🚻 **Gender Tracking** | Separate accommodation options for Male/Female students |
 | 📝 **Online Application** | Complete registration form with comprehensive fields |
@@ -320,7 +320,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 Ram Hostels
+Copyright (c) 2025 Hostel Management System
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -359,9 +359,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <div align="center">
 
-### Ram Hostels, Kolkata
-
-**Established:** 1990 | **Location:** Kolkata, India
+### Hostel Management System
 
 ---
 
